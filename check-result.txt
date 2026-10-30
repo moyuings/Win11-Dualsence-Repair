@@ -1,0 +1,1 @@
+﻿USB DualSense found; audio volume=1; mute=False; no output or settings changed.
